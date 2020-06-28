@@ -21,7 +21,7 @@
         <is_rest>false</is_rest>
         <message><![CDATA[<p>Please add a quantity greater than zero.</p>]]></message>
         <name>Validate Quantity</name>
-        <order>50</order>
+        <order>70</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -40,15 +40,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d1080b6fdb6110108708f7af29961975</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Validate Quantity</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_482467_wish_list">992a6621db1110108708f7af29961909</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">992a6621db1110108708f7af29961909</sys_scope>
         <sys_update_name>sys_script_d1080b6fdb6110108708f7af29961975</sys_update_name>
-        <sys_updated_by>carol.coughlin</sys_updated_by>
-        <sys_updated_on>2020-06-28 11:29:19</sys_updated_on>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-06-28 12:21:56</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
